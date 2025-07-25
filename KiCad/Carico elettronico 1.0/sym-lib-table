@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HF49FD_005-1H12T")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/HF49FD_005-1H12T.kicad_sym")(options "")(descr ""))
+  (lib (name "JRC-21F")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/JRC-21F.kicad_sym")(options "")(descr ""))
+)
