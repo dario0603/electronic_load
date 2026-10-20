@@ -3,7 +3,7 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/KiCad-Schematic-314CB0?style=flat&logo=kicad&logoColor=white" alt="KiCad"></a>
   <a href="#"><img src="https://img.shields.io/badge/LTspice-Simulation-blue?style=flat" alt="LTspice"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" alt="Status"></a>
+  <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=flat" alt="Work in Progress"/>
 </p>
 
 Un progetto open-source per la progettazione e simulazione di un **Carico Elettronico Bipolare** (Electronic Load), ideato per il test e la caratterizzazione di alimentatori, batterie e circuiti di potenza.
